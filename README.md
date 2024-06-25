@@ -40,65 +40,6 @@
   </a>
 </div>
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Renad-Elgabrouny/count.svg?"  />
-</div>
-
-###
-
-<div align="left">
-  <img height="-7" src=""  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<p align="left"></p>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Renad-Elgabrouny/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Renad-Elgabrouny/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Renad-Elgabrouny/count.svg?"  />
-</div>
 
 ###
 <br clear="both">
