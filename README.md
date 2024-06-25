@@ -48,7 +48,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img height="-7" src=""  />
 </div>
 
@@ -81,5 +81,28 @@
 
 <div align="left">
 </div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Renad-Elgabrouny/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Renad-Elgabrouny/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Renad-Elgabrouny/count.svg?"  />
+</div>
+
+###
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/your-username/your-username/output/snake.svg" alt="Snake animation" />
 
 ###
