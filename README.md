@@ -1,8 +1,8 @@
 <h2 align="center">Hi 👋! My name is Renad Khaled.</h2>
 
-###
+
 <p align="left">About me: <br>I'm a student at the Faculty of Computer and Artificial Intelligence, specializing in Computer Science. Currently, I'm interested in Data Science and Machine Learning . I'm a problem solver and have participated in the ECPC community at Damietta  University, as well as ECPC 2023. Additionally, I'm a member of the IEEE community at Mansoura University, where I'm currently learning  Data Science .</p>
-###
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Renad-Elgabrouny&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -11,9 +11,6 @@
 
 ###
 
-<img align="right" height="150" src=""  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
